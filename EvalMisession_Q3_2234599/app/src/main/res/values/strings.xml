@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EvalMisession_Q3_2234599</string>
+
+    <!-- student names -->
+    <string name="st1Name">Student 1 Name</string>
+    <string name="st2Name">Student 2 Name</string>
+    <string name="st3Name">Student 3 Name</string>
+    <string name="st4Name">Student 4 Name</string>
+
+
+    <!-- student grades -->
+    <string name="grade1">Grade</string>
+    <string name="grade2">Grade</string>
+    <string name="grade3">Grade</string>
+    <string name="grade4">Grade</string>
+
+    <!-- text for calculation buttons -->
+    <string name="calculateAvg">Calculate Average</string>
+    <string name="average">Average: </string>
+
+</resources>
